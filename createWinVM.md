@@ -1,6 +1,6 @@
 ### Установка виртуальной машины Win на **OpenVZ**
 
-[**оригинал тут**](https://www.tomvanbrienen.nl/how-to-create-windows-server-2016-2019-vms-openvz-7/)
+[**___оригинал тут___**](https://www.tomvanbrienen.nl/how-to-create-windows-server-2016-2019-vms-openvz-7/)
 
 Создать шаблон ВМ командой. Откуда взято win-2016 не поянтно. В документации пока ничего не нашел.
 
